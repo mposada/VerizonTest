@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">VerizonTest</string>
+    <string name="title_activity_example">ExampleActivity</string>
+    <string name="empty_list">You don\'t have any tags</string>
+    <string name="second_screen">SECOND SCREEN</string>
+    <string name="add_tag_title">Add a new tag</string>
+    <string name="save">SAVE</string>
+    <string name="saving_tag_error">Error, special characters are not allowed!!</string>
+    <string name="cancel">CANCEL</string>
+    <string name="number_tags">Number of tags:</string>
+</resources>
