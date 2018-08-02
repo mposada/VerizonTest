@@ -13,19 +13,6 @@ import co.mposadar.verizontest.utils.OrderTags
 import co.mposadar.verizontest.utils.setupAdapter
 import kotlinx.android.synthetic.main.activity_functionality.*
 
-/**
- *
- *
- *
- * Note: The library is almost ready to use, I could not complete it because the
- *       Generic type passed as arguments cant access the property. (i.e TagEntry.name)
- *       Don't know how to implement that part yet.
- *
- *
- *
- */
-// import co.mposadar.verizonlib.OrderTags
-
 class FunctionalityActivity : AppCompatActivity() {
 
     companion object {
